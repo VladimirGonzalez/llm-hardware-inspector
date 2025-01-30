@@ -1,0 +1,8 @@
+psutil
+GPUtil
+
+[extra]
+py-cpuinfo
+pynvml
+torch
+tensorflow

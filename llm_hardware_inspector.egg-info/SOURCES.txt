@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+llm_hardware_inspector.egg-info/PKG-INFO
+llm_hardware_inspector.egg-info/SOURCES.txt
+llm_hardware_inspector.egg-info/dependency_links.txt
+llm_hardware_inspector.egg-info/entry_points.txt
+llm_hardware_inspector.egg-info/requires.txt
+llm_hardware_inspector.egg-info/top_level.txt
+llm_hw_inspector/__init__.py
+llm_hw_inspector/cli.py
+llm_hw_inspector/hardware_checker.py

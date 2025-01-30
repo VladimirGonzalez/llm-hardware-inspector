@@ -1,0 +1,6 @@
+=== Sugerencias para ejecutar LLM localmente ===
+GPU con mayor VRAM detectada: 0 GB
+Memoria RAM total: 15.87 GB
+Recomendaciones:
+- No se detectó una GPU potente. Probablemente debas ejecutar en CPU.
+- Podrías manejar modelos 7B con librerías optimizadas y/o swap si es imprescindible.

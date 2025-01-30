@@ -1,0 +1,2 @@
+[console_scripts]
+llmhw = llm_hw_inspector.cli:main

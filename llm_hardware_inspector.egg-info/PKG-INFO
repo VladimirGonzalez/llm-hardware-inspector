@@ -1,0 +1,23 @@
+Metadata-Version: 2.2
+Name: llm-hardware-inspector
+Version: 0.1.0
+Summary: Inspección de hardware y software para ejecutar LLM de forma local.
+Home-page: https://github.com/VladimirGonzalez/llm-hardware-inspector
+Author: VladimirGonzalez
+License: MIT
+Requires-Python: >=3.7
+License-File: LICENSE
+Requires-Dist: psutil
+Requires-Dist: GPUtil
+Provides-Extra: extra
+Requires-Dist: py-cpuinfo; extra == "extra"
+Requires-Dist: pynvml; extra == "extra"
+Requires-Dist: torch; extra == "extra"
+Requires-Dist: tensorflow; extra == "extra"
+Dynamic: author
+Dynamic: home-page
+Dynamic: license
+Dynamic: provides-extra
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

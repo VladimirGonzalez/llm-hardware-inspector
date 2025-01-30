@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from setuptools import setup, find_packages
 
 setup(
@@ -17,7 +18,7 @@ setup(
         ],
     },
     license="MIT",
-    description="Inspección de hardware y software para ejecutar LLM de forma local.",
+    description="InspecciÃ³n de hardware y software para ejecutar LLM de forma local.",
     author="VladimirGonzalez",
     url="https://github.com/VladimirGonzalez/llm-hardware-inspector",
     python_requires=">=3.7",
